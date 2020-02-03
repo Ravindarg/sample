@@ -1,9 +1,6 @@
-package HelloWorld;
-
-public class Test
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Test");
-    }
-}
+<html>
+<head><title>Hello World</title></head>
+ <body>
+	 <h1>Hello World! from tomcat</h1>
+ </body>
+</html>
